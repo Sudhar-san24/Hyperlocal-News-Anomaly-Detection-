@@ -144,7 +144,8 @@ This project is licensed under the **MIT License** — free to use and modify.
 
 **Sudharsan Udhayakumar**
 💼 Data Scientist / ML Developer
-📧 [sudharsan.udhayakumar.dev@gmail.com](mailto:sudharsan.udhayakumar.dev@gmail.com)
+📧 [ssudhar525@gmail.com)
 
-Would you like that too? 🚀
+
+
 
